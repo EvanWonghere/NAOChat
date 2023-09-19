@@ -1,0 +1,7 @@
+/home/yufeng/naoTalk/naottkk/build-nao/CMakeFiles/tactile.dir
+/home/yufeng/naoTalk/naottkk/build-nao/CMakeFiles/edit_cache.dir
+/home/yufeng/naoTalk/naottkk/build-nao/CMakeFiles/rebuild_cache.dir
+/home/yufeng/naoTalk/naottkk/build-nao/CMakeFiles/list_install_components.dir
+/home/yufeng/naoTalk/naottkk/build-nao/CMakeFiles/install.dir
+/home/yufeng/naoTalk/naottkk/build-nao/CMakeFiles/install/local.dir
+/home/yufeng/naoTalk/naottkk/build-nao/CMakeFiles/install/strip.dir

@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/yufeng/naoTalk/record/build",
+  "command": "/usr/bin/g++  -I/home/yufeng/naoTalk/record/../include -I/home/yufeng/naoTalk/record/include -g    -DSOUNDPROCESSING_IS_REMOTE  -o CMakeFiles/ALSoundProcessing.dir/src/main.cpp.o -c /home/yufeng/naoTalk/record/src/main.cpp",
+  "file": "/home/yufeng/naoTalk/record/src/main.cpp"
+},
+{
+  "directory": "/home/yufeng/naoTalk/record/build",
+  "command": "/usr/bin/g++  -I/home/yufeng/naoTalk/record/../include -I/home/yufeng/naoTalk/record/include -g    -DSOUNDPROCESSING_IS_REMOTE  -o CMakeFiles/ALSoundProcessing.dir/src/process.cpp.o -c /home/yufeng/naoTalk/record/src/process.cpp",
+  "file": "/home/yufeng/naoTalk/record/src/process.cpp"
+},
+{
+  "directory": "/home/yufeng/naoTalk/record/build",
+  "command": "/usr/bin/gcc  -I/home/yufeng/naoTalk/record/../include -I/home/yufeng/naoTalk/record/include -g    -DSOUNDPROCESSING_IS_REMOTE  -o CMakeFiles/ALSoundProcessing.dir/src/linuxrec.c.o -c /home/yufeng/naoTalk/record/src/linuxrec.c",
+  "file": "/home/yufeng/naoTalk/record/src/linuxrec.c"
+},
+{
+  "directory": "/home/yufeng/naoTalk/record/build",
+  "command": "/usr/bin/gcc  -I/home/yufeng/naoTalk/record/../include -I/home/yufeng/naoTalk/record/include -g    -DSOUNDPROCESSING_IS_REMOTE  -o CMakeFiles/ALSoundProcessing.dir/src/speech_recognizer.c.o -c /home/yufeng/naoTalk/record/src/speech_recognizer.c",
+  "file": "/home/yufeng/naoTalk/record/src/speech_recognizer.c"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=gnu++11 -D_GLIBCXX_USE_CXX11_ABI=0 -g -rdynamic CMakeFiles/nao_talk.dir/main.cpp.o -o sdk/bin/nao_talk  -Wl,-rpath,:::::::::::::: 

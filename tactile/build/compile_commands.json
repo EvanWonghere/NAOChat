@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/yufeng/naoTalk/naottkk/build",
+  "command": "/usr/bin/g++  -I/home/yufeng/naoTalk/naottkk/./include -I/usr/include/jsoncpp/json -I/home/yufeng/naoTalk/naottkk/../include -g    -DTACTILE_IS_REMOTE  -o CMakeFiles/tactile.dir/src/main.cpp.o -c /home/yufeng/naoTalk/naottkk/src/main.cpp",
+  "file": "/home/yufeng/naoTalk/naottkk/src/main.cpp"
+},
+{
+  "directory": "/home/yufeng/naoTalk/naottkk/build",
+  "command": "/usr/bin/g++  -I/home/yufeng/naoTalk/naottkk/./include -I/usr/include/jsoncpp/json -I/home/yufeng/naoTalk/naottkk/../include -g    -DTACTILE_IS_REMOTE  -o CMakeFiles/tactile.dir/src/spark.cpp.o -c /home/yufeng/naoTalk/naottkk/src/spark.cpp",
+  "file": "/home/yufeng/naoTalk/naottkk/src/spark.cpp"
+},
+{
+  "directory": "/home/yufeng/naoTalk/naottkk/build",
+  "command": "/usr/bin/g++  -I/home/yufeng/naoTalk/naottkk/./include -I/usr/include/jsoncpp/json -I/home/yufeng/naoTalk/naottkk/../include -g    -DTACTILE_IS_REMOTE  -o CMakeFiles/tactile.dir/src/tactile.cpp.o -c /home/yufeng/naoTalk/naottkk/src/tactile.cpp",
+  "file": "/home/yufeng/naoTalk/naottkk/src/tactile.cpp"
+},
+{
+  "directory": "/home/yufeng/naoTalk/naottkk/build",
+  "command": "/usr/bin/g++  -I/home/yufeng/naoTalk/naottkk/./include -I/usr/include/jsoncpp/json -I/home/yufeng/naoTalk/naottkk/../include -g    -DTACTILE_IS_REMOTE  -o CMakeFiles/tactile.dir/src/thinkMotion.cpp.o -c /home/yufeng/naoTalk/naottkk/src/thinkMotion.cpp",
+  "file": "/home/yufeng/naoTalk/naottkk/src/thinkMotion.cpp"
+},
+{
+  "directory": "/home/yufeng/naoTalk/naottkk/build",
+  "command": "/usr/bin/gcc  -I/home/yufeng/naoTalk/naottkk/./include -I/usr/include/jsoncpp/json -I/home/yufeng/naoTalk/naottkk/../include -g    -DTACTILE_IS_REMOTE  -o CMakeFiles/tactile.dir/src/demo.c.o -c /home/yufeng/naoTalk/naottkk/src/demo.c",
+  "file": "/home/yufeng/naoTalk/naottkk/src/demo.c"
+},
+{
+  "directory": "/home/yufeng/naoTalk/naottkk/build",
+  "command": "/usr/bin/gcc  -I/home/yufeng/naoTalk/naottkk/./include -I/usr/include/jsoncpp/json -I/home/yufeng/naoTalk/naottkk/../include -g    -DTACTILE_IS_REMOTE  -o CMakeFiles/tactile.dir/src/rec.c.o -c /home/yufeng/naoTalk/naottkk/src/rec.c",
+  "file": "/home/yufeng/naoTalk/naottkk/src/rec.c"
+},
+{
+  "directory": "/home/yufeng/naoTalk/naottkk/build",
+  "command": "/usr/bin/gcc  -I/home/yufeng/naoTalk/naottkk/./include -I/usr/include/jsoncpp/json -I/home/yufeng/naoTalk/naottkk/../include -g    -DTACTILE_IS_REMOTE  -o CMakeFiles/tactile.dir/src/recognizer.c.o -c /home/yufeng/naoTalk/naottkk/src/recognizer.c",
+  "file": "/home/yufeng/naoTalk/naottkk/src/recognizer.c"
+}
+]

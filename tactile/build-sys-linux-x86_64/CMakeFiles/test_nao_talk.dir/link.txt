@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/test_nao_talk.dir/test.cpp.o -o sdk/bin/test_nao_talk  -Wl,-rpath,:::::::::::::: 

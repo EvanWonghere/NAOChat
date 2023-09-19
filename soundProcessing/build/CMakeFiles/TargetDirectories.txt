@@ -1,0 +1,7 @@
+/home/yufeng/naoTalk/record/build/CMakeFiles/ALSoundProcessing.dir
+/home/yufeng/naoTalk/record/build/CMakeFiles/edit_cache.dir
+/home/yufeng/naoTalk/record/build/CMakeFiles/rebuild_cache.dir
+/home/yufeng/naoTalk/record/build/CMakeFiles/list_install_components.dir
+/home/yufeng/naoTalk/record/build/CMakeFiles/install.dir
+/home/yufeng/naoTalk/record/build/CMakeFiles/install/local.dir
+/home/yufeng/naoTalk/record/build/CMakeFiles/install/strip.dir
