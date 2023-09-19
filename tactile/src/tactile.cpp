@@ -1,5 +1,4 @@
 #include "tactile.h"
-#include "demo.h"
 #include "spark.h"
 
 #include <alvalue/alvalue.h>
