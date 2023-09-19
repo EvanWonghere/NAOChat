@@ -1,7 +1,0 @@
-/home/yufeng/naoTalk/naottkk/build-sys-linux-x86_64/CMakeFiles/tactile.dir
-/home/yufeng/naoTalk/naottkk/build-sys-linux-x86_64/CMakeFiles/edit_cache.dir
-/home/yufeng/naoTalk/naottkk/build-sys-linux-x86_64/CMakeFiles/rebuild_cache.dir
-/home/yufeng/naoTalk/naottkk/build-sys-linux-x86_64/CMakeFiles/list_install_components.dir
-/home/yufeng/naoTalk/naottkk/build-sys-linux-x86_64/CMakeFiles/install.dir
-/home/yufeng/naoTalk/naottkk/build-sys-linux-x86_64/CMakeFiles/install/local.dir
-/home/yufeng/naoTalk/naottkk/build-sys-linux-x86_64/CMakeFiles/install/strip.dir
