@@ -63,19 +63,6 @@ void Tactile::onFrontTactilTouched()
   try
   {
     ttsProxy = AL::ALTextToSpeechProxy(getParentBroker());
-    ttsProxy.setLanguage("Chinese");
-
-    printf("point 0\n");
-
-    // asrProxy->callVoid("startSession");
-    // std::cout << "session started" << std::endl;
-    // sleep(4);
-    // std::string rslt = asrProxy->call<std::string>("getResult");
-    // std::cout << "rslt got" << std::endl;
-    // asrProxy->callVoid("stopSession");w
-    // auto rslt = "";
-    // std::cout << asrProxy->getModuleHelp << std::endl;
-    // std::cout << "rslt: " << rslt << std::endl;
     ttsProxy.setVolume(1.0);
     ttsProxy.setLanguage("Chinese");
     ttsProxy.say("请稍等。");
